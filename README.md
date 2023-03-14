@@ -7,3 +7,6 @@ https://www.pluralsight.com/guides/create-docker-images-docker-hub
 3. Creating a Dockerfile and .dockerignore
 4. Build the image
 5. Push/Upload to dockerhub
+   
+   # docker login
+   # docker push <image name>
